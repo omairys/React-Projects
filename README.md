@@ -1,3 +1,3 @@
 # React-Projects
 
-1）crm: Building Full-Stack Apps with React and Spring
+1）React-Spring-Projects/crm: A Full-Stack App with React and Spring
